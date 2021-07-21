@@ -99,3 +99,11 @@ http://180.210.191.2/hls/stream34.m3u8
 http://180.210.191.2/hls/stream16.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/g7TdD4n.png" group-title="Sports", TSN 1
 http://31.220.41.88:8081/live/tsn1.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://www.kcvnet.in/images/chanellogo/star_sports_1_hindi_in.png" group-title="Sports", Star Sports 1 (3)
+http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/MG705fX/download-removebg-preview.png" group-title="Sports", Star Sports Select 1 HD (1)
+http://180.210.191.2/hls/stream12.m3u8
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/SSS2.jpg" group-title="Sports", Star Sports Select 2 (3)
+http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/index.m3u8
+#EXTINF: -1 tvg-logo="http://www.kcvnet.in/images/chanellogo/star_sports_3_in.png" group-title="Sports", Star Sports 3
+http://103.109.56.116/live/skyfeed1022/index.m3u8
