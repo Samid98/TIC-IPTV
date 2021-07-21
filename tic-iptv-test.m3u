@@ -99,11 +99,3 @@ http://180.210.191.2/hls/stream34.m3u8
 http://180.210.191.2/hls/stream16.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/g7TdD4n.png" group-title="Sports", TSN 1
 http://31.220.41.88:8081/live/tsn1.stream/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://assets.beinsports.com/beIN_SPORTS.png" group-title="Sports", bEIN Sports 1
-http://cloudcdn.tk:80/tuUO22w8572/442wnM854/14981
-#EXTINF: -1 tvg-logo="https://i.imgur.com/yf0Ek5j.png" group-title="Sports", bEIN Sports 2
-http://cloudcdn.tk:80/tuUO22w8572/442wnM854/14983
-#EXTINF: -1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="Sports", bEIN Sports 3
-http://cloudcdn.tk:80/tuUO22w8572/442wnM854/14985
-#EXTINF: -1 tvg-logo="https://i.imgur.com/wCCbWNp.png" group-title="Sports", bEIN Sports 4
-http://cloudcdn.tk:80/tuUO22w8572/442wnM854/14987
