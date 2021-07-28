@@ -1,0 +1,15 @@
+#EXTM3U 
+#EXTINF: -1 group-title="Ungrouped", SOMOY TV
+https://live.bongobd.com/hls/mP9J114iDdryB1XUQuj4pA/1626067849/shomoy_tv_hi/index.m3u8
+#EXTINF: -1 group-title="Ungrouped", CHANNEL 24
+https://live.bongobd.com/hls/wVFk-dkOJMYGHpqeZxPsDA/1626067678/channel_24_hi/index.m3u8
+#EXTINF: -1 group-title="Ungrouped", EKATTOR TV
+https://live.bongobd.com/hls/GRYjfBDkMls_dLimeRKqUg/1626067503/ekattur_tv_hi/index.m3u8
+#EXTINF: -1 group-title="Ungrouped", SONY TV
+https://edge4.bioscopelive.com/hls/anonymous/0UKjZGTs3I0FCVT9lfEFPg/1626068057/live-sony-hd_hi/index.m3u8
+#EXTINF: -1 group-title="Ungrouped", COLORS
+https://edge4.bioscopelive.com/hls/anonymous/cBo-TVoS9hGUmvaXauQiiA/1626068207/colors_hi/index.m3u8
+#EXTINF: -1 group-title="Ungrouped", SONY SAB HD
+https://edge4.bioscopelive.com/hls/anonymous/lBsnurAZQGqrhSICW4L1lw/1626020997/live-sony-sab-tv-india_hi/index.m3u8
+#EXTINF: -1 group-title="Ungrouped", SONY MAX
+https://live.bongobd.com/hls/UwtsWBRliZrdnzdXo6oL2w/1626066549/set_max_hi/index.m3u8
