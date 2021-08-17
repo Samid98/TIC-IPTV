@@ -106,7 +106,7 @@ https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Sony_Wah.jpg/revision/latest?cb=20180603153048" group-title="All", SONY WAH
 http://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
 #EXTINF:-1 group-title="All" tvg-logo="http://www.kcvnet.in/images/chanellogo/sony_max_in.png",SONY MAX
-http://208.115.215.42/Sony_Max_HD/tracks-v1a1/mono.m3u8
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/63397
 #EXTINF:-1 group-title="All" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png",Sony Pix HD
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5898adc68bee8059e6e513dcb693c1e2c3fa3ee96a38a82ce0b5a699482eea64c3da350d68b96f4841599956bb1bb02ab5f9d8bf5cffb57c876776baf4dfb952b86133e6cebfa4191979d24d01ce&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 #EXTINF:-1 group-title="All" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png",&Flix HD 
@@ -120,7 +120,7 @@ https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Sports", Sony Ten 1 HD
 http://209.126.120.91/hls/ten1.m3u8
 #EXTINF: -1 tvg-logo="https://sportschunky.com/wp-content/uploads/2019/03/maxresdefault-6.jpg" group-title="All", SONY SIX HD
-http://103.81.104.118/hls/stream10.m3u8
+http://tvflix03.ddns.net/ENC-3/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-ten-2-hd-logo-300x300.jpg" group-title="All", SONY TEN 2 HD
 http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:-1 group-title="All" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png",PTV Sports
@@ -130,11 +130,11 @@ http://103.81.104.118/hls/stream34.m3u8
 #EXTINF: -1 tvg-logo="http://www.kcvnet.in/images/chanellogo/star_sports_1_hindi_in.png" group-title="Sports", Star Sports 1 HD
 http://jupiter.bdcabletv.com/Star-Sports_1HD_ENC/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/SSS2.jpg" group-title="Sports", Star Sports Select 2
-http://103.109.56.116/live/skyfeed1024/index.m3u8
+http://bd.digiiptv.net:25461/moznu43/PA2443/719
 #EXTINF: -1 tvg-logo="http://www.kcvnet.in/images/chanellogo/star_sports_3_in.png" group-title="Sports", Star Sports 3
 http://103.109.56.116/live/skyfeed1022/index.m3u8
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png" group-title="Infotainment", Discovery HD
-http://103.81.104.118/hls/stream9.m3u8
+http://nwbz1u.ecm.tm/806B6CF/89181e/SS_BD_DISCOVERY/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ed01782c16859e302eb12c21ef1aa26a6b1fbb4afd9b4d4f2393f1c64d7b6ac5564402c4bb535eb4642b959ca4cb7629983c53bbbd3fd119b10e1c56621772f6af77ea564e72027e60b2898a21c3a8cd31773d314d2239aa27e62a7fa2f29d&mac=00:1A:79:55:D4:8B&ip=103.121.220.147&magic_server=MAIN_MP
 #EXTINF: -1 tvg-logo="https://i.imgur.com/tRVtg3Q.png" group-title="Infotainment", Travel XP
 http://103.81.104.118/hls/stream37.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/plKUWKl.png" group-title="Infotainment", NAT GEO
