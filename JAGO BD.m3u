@@ -28,7 +28,7 @@ http://tv.bdrisworld.xyz:8880/live/123456/123456/1299.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/My_TV_Logo.svg/1200px-My_TV_Logo.svg.png" group-title="BANGLADESHI",MY TV
 http://tv.bdrisworld.xyz:8880/live/123456/123456/1308.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DESH TV" tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/2486b315-2a26-4277-ae42-7018d19f083e/c1f823bd-68eb-4f5d-9961-7f67ef78c469.jpg" group-title="BANGLADESHI",DESH TV
-http://tv.bdrisworld.xyz:8880/live/123456/123456/1320.m3u8
+http://tv.bdrisworld.xyz:8880/live/123456/123456/1320.ts
 #EXTINF:-1 tvg-id="" tvg-name="MOHONA TV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/landscape/UU3a2v6E7Zs.png" group-title="BANGLADESHI",MOHONA TV
 http://tv.bdrisworld.xyz:8880/live/123456/123456/1309.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MASRANGA-HD" tvg-logo="https://4.bp.blogspot.com/-sLjSbwUg5Bg/W6K8oDZhqkI/AAAAAAAAAPc/NLaA9mC7ewkQ1m4NUrvDOfQiZ0NbSzRRgCLcBGAs/s1600/maasranga-tv-live.png" group-title="BANGLADESHI",MASRANGA-HD
